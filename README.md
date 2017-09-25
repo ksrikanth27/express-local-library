@@ -1,2 +1,2 @@
 # express-local-library
-Local Library website written in Express (Node)
+Local Library website written in Express (Node) by Srikanth
